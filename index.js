@@ -1,6 +1,6 @@
 // Write your code in this file!
 function scuberGreetingForFeet(distance){
-  if (scuberGreetingForFeet(<=400) {
+  if scuberGreetingForFeet(<=400) {
     return 'This one is on me!'
   }
 }
