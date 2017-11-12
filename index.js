@@ -1,7 +1,6 @@
 // Write your code in this file!
-function scuberGreetingForFeet (){
-  if scuberGreetingForFeet(<=400) {
+function scuberGreetingForFeet (string){
+  if (string()(<=400) {
     return ('This one is on me!')
   }
 }
-scuberGreetingForFeet() = 199
