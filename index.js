@@ -16,4 +16,3 @@ function ternaryCheckCity(city){
     return 'No go.'
   }
 }
-//return "No go." if the destination city is not NYC',
